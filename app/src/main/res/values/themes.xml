@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Only the window behind Compose; everything visible is themed in Compose. Light and
+         night parents keep the first frame and the splash from flashing the wrong colour. -->
+    <style name="Theme.KidsLearn" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

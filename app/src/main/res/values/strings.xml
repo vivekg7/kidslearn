@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kids Learn</string>
+    <string name="home_title">Let\'s learn!</string>
+
+    <!-- Home tiles: a big glyph and a label each. -->
+    <string name="section_english">English ABC</string>
+    <string name="section_swar">Hindi स्वर</string>
+    <string name="section_vyanjan">Hindi व्यंजन</string>
+    <string name="section_numbers">Numbers</string>
+    <string name="section_tables">Tables</string>
+    <string name="section_colours">Colours</string>
+    <string name="section_shapes">Shapes</string>
+    <string name="section_quiz">Quiz</string>
+    <string name="tile_english" translatable="false">Aa</string>
+    <string name="tile_swar" translatable="false">अ आ</string>
+    <string name="tile_vyanjan" translatable="false">क ख</string>
+    <string name="tile_numbers" translatable="false">123</string>
+    <string name="tile_tables" translatable="false">2×3</string>
+    <string name="tile_colours" translatable="false">🎨</string>
+    <string name="tile_shapes" translatable="false">🔷</string>
+    <string name="tile_quiz" translatable="false">⭐</string>
+
+    <!-- Card navigation -->
+    <string name="back">Back</string>
+    <string name="settings">Settings</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="say_again">Say it again</string>
+    <string name="page_of">%1$d / %2$d</string>
+
+    <!-- How a letter card reads. "like" is for letters no word starts with (ङ, ण, अः). -->
+    <string name="english_phrase">%1$s for %2$s</string>
+    <string name="hindi_phrase">%1$s से %2$s</string>
+    <string name="hindi_phrase_like">%1$s, जैसे %2$s</string>
+
+    <string name="table_title">Table of %1$d</string>
+    <string name="table_row">%1$d × %2$d = %3$d</string>
+    <string name="table_row_spoken">%1$d times %2$d is %3$d</string>
+
+    <!-- Quiz prompts, read aloud as well as shown. -->
+    <string name="quiz_english_letter">Tap the letter %1$s</string>
+    <string name="quiz_hindi_letter">%1$s को छुओ</string>
+    <string name="quiz_number">Tap the number %1$d</string>
+    <string name="quiz_colour">Which one is %1$s?</string>
+    <string name="quiz_shape">Which one is the %1$s?</string>
+    <string name="quiz_stars">⭐ %1$d</string>
+    <string-array name="cheers">
+        <item>Great job!</item>
+        <item>Well done!</item>
+        <item>Super!</item>
+        <item>You got it!</item>
+        <item>Hooray!</item>
+    </string-array>
+    <string-array name="try_again">
+        <item>Try again!</item>
+        <item>Almost! Try another one.</item>
+        <item>Have another go!</item>
+    </string-array>
+
+    <!-- Voice notes -->
+    <string name="hindi_missing_title">Hindi voice not installed</string>
+    <string name="hindi_missing_body">The Hindi cards still show, but the phone cannot say them yet. A grown-up can add the free Hindi voice in the phone\'s text-to-speech settings.</string>
+    <string name="no_engine_title">No voice on this phone</string>
+    <string name="no_engine_body">Cards will not be spoken until a grown-up installs a text-to-speech voice.</string>
+    <string name="install_voice">Install voice</string>
+
+    <!-- Parent gate -->
+    <string name="gate_title">For grown-ups</string>
+    <string name="gate_body">Press and hold the button for 3 seconds.</string>
+    <string name="gate_hold">Hold</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Settings -->
+    <string name="settings_speed">Speaking speed</string>
+    <string name="speed_slow">Slow</string>
+    <string name="speed_normal">Normal</string>
+    <string name="settings_auto_speak">Say each card when it appears</string>
+    <string name="settings_voice">Voices</string>
+    <string name="settings_voice_body">Install or change the English and Hindi voices used to read cards aloud.</string>
+    <string name="open_voice_settings">Open voice settings</string>
+    <string name="settings_about">About</string>
+    <string name="about_body">Kids Learn %1$s. Free and open source (MIT licence). No ads, no tracking and no internet access: nothing leaves this phone.</string>
+</resources>
