@@ -1,0 +1,23 @@
+Kids Learn is an early-learning app for children aged about 2 to 7, made for Indian families. Big bright cards, swipe to the next one, tap to hear it said.
+
+<b>What's inside</b>
+<ul>
+<li>English alphabet: A for Apple to Z for Zebra, capital and small letters</li>
+<li>Hindi varnamala: all स्वर and व्यंजन, each with a word and picture (क से केला)</li>
+<li>Numbers 1 to 100, with English and Hindi number words and Devanagari digits, shown as tens and ones to count</li>
+<li>Multiplication tables 1 to 20; tap any line to hear it</li>
+<li>Colours and shapes, named in English and Hindi</li>
+<li>A gentle quiz ("Tap the letter B", "Which one is red?"): a star and a cheer for every right answer, and no penalty for a wrong one</li>
+</ul>
+
+<b>Made for children, so:</b>
+<ul>
+<li>No ads, no in-app purchases, no links out of the app</li>
+<li>No internet permission at all: it cannot send anything anywhere</li>
+<li>No account, no tracking, no analytics</li>
+<li>Settings sit behind a "press and hold for 3 seconds" parent gate</li>
+</ul>
+
+Words are spoken by the phone's own text-to-speech engine (Indian English and Hindi). If the Hindi voice is not installed, the app says so and a grown-up can install it from the phone's settings.
+
+Free and open source under the MIT licence.
