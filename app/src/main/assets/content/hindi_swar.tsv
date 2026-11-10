@@ -1,0 +1,17 @@
+# Hindi swar (vowels): letter <TAB> word <TAB> picture [<TAB> like]
+# Words are picked so that an emoji shows exactly that thing (अनानास, not अनार, because
+# there is no pomegranate emoji). "like" marks a letter no everyday word starts with;
+# the card then reads "अः, जैसे छः" instead of "अः से ...".
+अ	अनानास	🍍
+आ	आम	🥭
+इ	इंजन	🚂
+ई	ईंट	🧱
+उ	उल्लू	🦉
+ऊ	ऊँट	🐫
+ऋ	ऋषि	🧘
+ए	एड़ी	🦶
+ऐ	ऐनक	👓
+ओ	ओस	💧
+औ	औरत	👩
+अं	अंगूर	🍇
+अः	छः	6️⃣	like

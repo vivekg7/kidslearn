@@ -1,0 +1,39 @@
+# Hindi vyanjan (consonants): letter <TAB> word <TAB> picture [<TAB> like]
+# See hindi_swar.tsv for the format. ङ, ञ, ण and क्ष never begin a word, so they use
+# "like" with a word that contains them.
+क	केला	🍌
+ख	खरगोश	🐰
+ग	गाय	🐄
+घ	घर	🏠
+ङ	शङ्ख	🐚	like
+च	चम्मच	🥄
+छ	छतरी	☔
+ज	जहाज	🚢
+झ	झंडा	🇮🇳
+ञ	पञ्जा	✋	like
+ट	टमाटर	🍅
+ठ	ठंड	🥶
+ड	डिब्बा	📦
+ढ	ढोल	🥁
+ण	हिरण	🦌	like
+त	तरबूज	🍉
+थ	थैला	👜
+द	दाँत	🦷
+ध	धनुष	🏹
+न	नल	🚰
+प	पतंग	🪁
+फ	फूल	🌻
+ब	बतख	🦆
+भ	भालू	🐻
+म	मछली	🐟
+य	यान	🚀
+र	राजा	🤴
+ल	लड़का	👦
+व	वृक्ष	🌳
+श	शेर	🦁
+ष	षट्कोण	shape:HEXAGON
+स	सेब	🍎
+ह	हाथी	🐘
+क्ष	कक्षा	🏫	like
+त्र	त्रिशूल	🔱
+ज्ञ	ज्ञानी	🧑‍🏫

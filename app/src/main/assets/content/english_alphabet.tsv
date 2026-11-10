@@ -1,0 +1,29 @@
+# English alphabet cards: letter <TAB> word <TAB> picture
+# A picture is one emoji (system font, so no image licensing) or shape:<ShapeKind>.
+# Every emoji here is from Emoji 13.1 or earlier, which Android 12 (minSdk) renders.
+A	Apple	🍎
+B	Ball	⚽
+C	Cat	🐱
+D	Dog	🐶
+E	Elephant	🐘
+F	Fish	🐟
+G	Grapes	🍇
+H	House	🏠
+I	Ice cream	🍦
+J	Juice	🧃
+K	Kite	🪁
+L	Lion	🦁
+M	Mango	🥭
+N	Nose	👃
+O	Orange	🍊
+P	Parrot	🦜
+Q	Queen	👸
+R	Rabbit	🐰
+S	Sun	🌞
+T	Tiger	🐯
+U	Umbrella	☔
+V	Van	🚐
+W	Watch	⌚
+X	Xmas tree	🎄
+Y	Yo-yo	🪀
+Z	Zebra	🦓

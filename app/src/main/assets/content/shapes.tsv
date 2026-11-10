@@ -1,0 +1,13 @@
+# Shapes: ShapeKind <TAB> English name <TAB> Hindi name
+# The shape itself is drawn in code (ShapeKind), so there are no image files.
+CIRCLE	Circle	गोला
+SQUARE	Square	वर्ग
+TRIANGLE	Triangle	त्रिभुज
+RECTANGLE	Rectangle	आयत
+OVAL	Oval	अंडाकार
+STAR	Star	तारा
+HEART	Heart	दिल
+DIAMOND	Diamond	हीरा
+PENTAGON	Pentagon	पंचभुज
+HEXAGON	Hexagon	षट्भुज
+CRESCENT	Crescent	अर्धचंद्र

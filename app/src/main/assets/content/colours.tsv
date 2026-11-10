@@ -1,0 +1,14 @@
+# Colours: English name <TAB> Hindi name <TAB> #RRGGBB
+# Saturated, unambiguous shades: a child should not have to wonder whether a swatch
+# is pink or red.
+Red	लाल	#E53935
+Blue	नीला	#1E88E5
+Yellow	पीला	#FDD835
+Green	हरा	#43A047
+Orange	नारंगी	#FB8C00
+Purple	बैंगनी	#8E24AA
+Pink	गुलाबी	#F06292
+Brown	भूरा	#795548
+Black	काला	#212121
+White	सफ़ेद	#FFFFFF
+Grey	स्लेटी	#9E9E9E
